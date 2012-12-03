@@ -1,0 +1,20 @@
+Source: granatier
+Priority: extra
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+Build-Depends: cmake,
+               debhelper (>= 8.0.0),
+               kdelibs5-dev (>= 4:4.9.80),
+               libkdegames-dev (>= 4:4.9.80),
+               pkg-kde-tools
+Standards-Version: 3.9.3
+Section: libs
+Homepage: http://www.kde.org
+
+Package: granatier
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kdegames-data
+Description: Bomberman clone
+ Granatier is a clone of the classic Bomberman game,
+ inspired by the work of the Clanbomber clone.
+ .
+ This package is part of the KDE games module.
