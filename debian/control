@@ -12,7 +12,7 @@ Homepage: http://www.kde.org
 
 Package: granatier
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, kdegames-data
+Depends: ${shlibs:Depends}, ${misc:Depends}, kdegames-data (>= ${source:Upstream-Version})
 Description: Bomberman clone
  Granatier is a clone of the classic Bomberman game,
  inspired by the work of the Clanbomber clone.
