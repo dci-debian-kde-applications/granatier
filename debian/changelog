@@ -1,4 +1,4 @@
-granatier (4:4.10.2-1) UNRELEASED; urgency=low
+granatier (4:4.10.2-1) experimental; urgency=low
 
   * First release of kdegames after being split by upstream.
 
