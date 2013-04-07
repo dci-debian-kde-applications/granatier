@@ -1,0 +1,6 @@
+granatier (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * First release of kdegames after being split by upstream.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 07 Apr 2013 23:27:24 +0200
+
