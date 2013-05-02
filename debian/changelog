@@ -1,11 +1,11 @@
-granatier (4:4.10.2-2) UNRELEASED; urgency=low
+granatier (4:4.10.2-2) experimental; urgency=low
 
   * Fix erroneous Upstream-Name in debian/copyright.
   * Add a basic manpage.
   * Simplify copyright file.
   * Reshuffle dependencies to reduce resolver tries.
 
- -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 14:06:27 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 02 May 2013 15:35:17 +0200
 
 granatier (4:4.10.2-1) experimental; urgency=low
 
