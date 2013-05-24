@@ -1,0 +1,16 @@
+.TH GRANATIER 6
+.SH NAME
+granatier \- Bomberman Clone
+.SH SYNOPSIS
+.B granatier
+.I [Qt-options] [KDE-options]
+.SH DESCRIPTION
+.B Granatier
+is a clone of the classic Bomberman game, inspired by the work of
+the Clanbomber clone.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/granatier
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/granatier').
