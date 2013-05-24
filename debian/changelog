@@ -1,3 +1,24 @@
+granatier (4:4.10.3-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 23 May 2013 11:04:24 +0000
+
+granatier (4:4.10.2-2) experimental; urgency=low
+
+  * Fix erroneous Upstream-Name in debian/copyright.
+  * Add a basic manpage.
+  * Simplify copyright file.
+  * Reshuffle dependencies to reduce resolver tries.
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 02 May 2013 15:35:17 +0200
+
+granatier (4:4.10.2-1) experimental; urgency=low
+
+  * First release of kdegames after being split by upstream.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 07 Apr 2013 23:27:24 +0200
+
 granatier (4:4.10.2-0ubuntu1) raring; urgency=low
 
   * New upstream bugfix release
@@ -41,3 +62,4 @@ granatier (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 17:34:47 +0000
+
