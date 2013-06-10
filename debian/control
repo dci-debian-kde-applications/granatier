@@ -16,8 +16,8 @@ Build-Depends: kdelibs5-dev (>= 4:4.10),
  cmake, debhelper (>= 9), pkg-kde-tools (>= 0.14)
 Standards-Version: 3.9.4
 Homepage: http://games.kde.org/
-Vcs-Browser: http://git.debian.org/?p=pkg-kde/kde-sc/granatier.git
-Vcs-Git: git://git.debian.org/pkg-kde/kde-sc/granatier.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/granatier.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/granatier.git
 
 Package: granatier
 Architecture: any
