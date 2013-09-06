@@ -1,8 +1,8 @@
-granatier (4:4.11.1-0ubuntu1) UNRELEASED; urgency=low
+granatier (4:4.11.1-0ubuntu1) saucy; urgency=low
 
   * New upstream bugfix release.
 
- -- Howard Chan <smartboyhw@gmail.com>  Fri, 30 Aug 2013 20:19:04 +0800
+ -- Howard Chan <smartboyhw@gmail.com>  Fri, 06 Sep 2013 22:04:32 +0100
 
 granatier (4:4.11.0-0ubuntu1) saucy; urgency=low
 
