@@ -1,8 +1,8 @@
-granatier (4:4.12.90-0ubuntu1) UNRELEASED; urgency=medium
+granatier (4:4.12.90-0ubuntu1) trusty; urgency=medium
 
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 13 Mar 2014 23:40:25 +0000
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 10:34:16 +0000
 
 granatier (4:4.12.3-0ubuntu1) trusty; urgency=medium
 
