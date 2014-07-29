@@ -1,6 +1,7 @@
 granatier (4:4.13.3-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Convert manpage to docbook.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Jul 2014 12:54:14 +0200
 
