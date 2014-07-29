@@ -1,9 +1,9 @@
-granatier (4:4.13.3-1) UNRELEASED; urgency=medium
+granatier (4:4.13.3-1) unstable; urgency=medium
 
   * New upstream release.
   * Convert manpage to docbook.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Jul 2014 12:54:14 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 29 Jul 2014 22:47:47 +0200
 
 granatier (4:4.13.2-0ubuntu1) utopic; urgency=medium
 
