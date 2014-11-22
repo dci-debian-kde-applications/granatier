@@ -1,15 +1,59 @@
-granatier (4:4.14.2-2) UNRELEASED; urgency=medium
+granatier (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Remove myself from Uploaders.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 25 Oct 2014 16:54:13 -0300
+  [ Scarlett Clark ]
+  * Initial release for KDE applications 14.12 series 
+   - Change maintainer to Debian/Kubuntu
+   - Removed no longer applicable bzr VCS entries.
+   - Had to add an dh_installman override to remove the created file from 
+     source when done or else debuild cries of local changes.
+  * Debian merge, no remaining changes. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Sat, 22 Nov 2014 09:41:03 +0000
 
 granatier (4:4.14.2-1) unstable; urgency=medium
 
   * New upstream release (4.14.2).
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 20 Oct 2014 17:13:07 +0200
+
+granatier (4:4.14.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 03:56:29 -0700
+
+granatier (4:4.14.1-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Mon, 22 Sep 2014 16:25:59 +0200
+
+granatier (4:4.14.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Aug 2014 12:30:41 +0200
+
+granatier (4:4.13.97-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release RC
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Fri, 01 Aug 2014 16:09:47 +0200
+
+granatier (4:4.13.95-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 30 Jul 2014 17:24:32 +0200
+
+granatier (4:4.13.90-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Thu, 24 Jul 2014 17:24:12 +0200
 
 granatier (4:4.13.3-1) unstable; urgency=medium
 
@@ -264,3 +308,4 @@ granatier (4:4.9.90-0ubuntu1) raring-proposed; urgency=low
   * Initial release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 07 Dec 2012 17:34:47 +0000
+

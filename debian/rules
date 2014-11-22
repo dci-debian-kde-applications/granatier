@@ -16,3 +16,7 @@ generate-icons:
 	while read src dest; do \
 		convert debian/tmp/$$src debian/icons/$$dest; \
 	done <debian/icon-list
+
+override_dh_installman:
+	$(overridden_command)
+	rm granatier.6
