@@ -23,7 +23,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/granatier.git
 Package: granatier
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: Bomberman clone
  Granatier is a clone of the classic Bomberman game, inspired by the work of
  the Clanbomber clone.
