@@ -1,9 +1,9 @@
-granatier (4:14.12.2-1~) UNRELEASED; urgency=medium
+granatier (4:14.12.2-1) experimental; urgency=medium
 
   * New upstream release (14.12.2).
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 11:28:29 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 15:59:07 +0100
 
 granatier (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
