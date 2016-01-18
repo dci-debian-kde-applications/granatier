@@ -6,26 +6,34 @@ Upstream-Contact: Mathias Kraus <k.hias@gmx.de>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2006,2007, Mauricio Piacentini <mauricio@tabuleiro.com>
-           2007, Matt Williams <matt@milliams.com>
-           2007-2008, Alexandre Galinier <alex.galinier@hotmail.com>
+Copyright: 2007-2008, Alexandre Galinier <alex.galinier@hotmail.com>
            2007-2008, Alexia Allanic <alexia_allanic@yahoo.fr>
+           1989-1991, Free Software Foundation, Inc
            2007-2008, Gaël Courcelle <gael.courcelle@gmail.com>
            2007-2008, Johann Hingue <yoan1703@hotmail.fr>
-           2007-2008, Nathalie Liesse <nathalie.liesse@gmail.com>
-           2007-2008, Pierre-Benoît Besse <besse.pb@gmail.com>
-           2007-2008, Thomas Gallinari <tg8187@yahoo.fr>
            2008-2012, Mathias Kraus <k.hias@gmx.de>
+           2007, Matt Williams <matt@milliams.com>
+           2006-2007, Mauricio Piacentini <mauricio@tabuleiro.com>
+           2007-2008, Nathalie Liesse <nathalie.liesse@gmail.com>
+           2007-2008, Pierre-Benoit Besse <besse@gmail.com>
+           2007-2008, Pierre-Benoît Besse <besse.pb@gmail.com>
+           2009-2015, The Granatier Team!
+           2007-2008, Thomas Gallinari <tg8187@yahoo.fr>
 License: GPL-2+
 
 Files: doc/*
-Copyright: 2009, Mathias Kraus <k.hias@gmx.de>
+Copyright: 2009, Arturo Silva <jasilva28@gmail.com>
+           2009, Mathias Kraus <k.hias@gmx.de>
 License: GFDL-1.2+
 
 Files: *.png *.svgz *.xpm
 Copyright: 2009, Mathias Kraus <k.hias@gmx.de>
            2009, Arturo Silva <jasilva28@gmail.com>
 License: GPL-2+
+
+Files: pictures/hisc-app-granatier.svgz
+Copyright: David Miller
+License: CC-BY-SA-3.0
 
 Files: src/config/playerselector.cpp
        src/config/playerselector.h
