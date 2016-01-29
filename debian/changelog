@@ -1,8 +1,9 @@
-granatier (4:15.12.0-1~) UNRELEASED; urgency=medium
+granatier (4:15.12.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (15.12.0).
+  * New upstream release (15.12.1).
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 16 Dec 2015 16:10:04 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 29 Jan 2016 11:07:57 +0100
 
 granatier (4:15.08.3-1) unstable; urgency=medium
 
