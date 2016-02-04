@@ -12,11 +12,6 @@ override_dh_auto_build:
 	$(overridden_command)
 	meinproc5 --stylesheet /usr/share/kf5/kdoctools/customization/kde-include-man.xsl --output /dev/null debian/man-granatier.6.docbook
 
-generate-icons:
-	while read src dest; do \
-		convert debian/tmp/$$src debian/icons/$$dest; \
-	done <debian/icon-list
-
 override_dh_installman:
 	$(overridden_command)
 	rm granatier.6
