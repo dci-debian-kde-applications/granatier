@@ -1,8 +1,11 @@
-granatier (4:15.12.2-1~) UNRELEASED; urgency=medium
+granatier (4:16.04.0-1~1.gbp07bf32) UNRELEASED; urgency=medium
 
-  * New upstream release (15.12.2).
+  ** SNAPSHOT build @07bf32bc81ced72feefb0f651da8e98072869844 **
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:44:26 +0100
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 05:19:13 +0200
 
 granatier (4:15.12.1-1) experimental; urgency=medium
 
