@@ -1,10 +1,16 @@
-granatier (4:16.08.0-1~1.gbp9d3eed) UNRELEASED; urgency=medium
+granatier (4:16.08.1-1~1.gbp249fee) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @249feec8dc95d52d829ec7ddb5e6aa5d3c0476c1 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @9d3eedbdf3a59b5c570520077d51c5802dd8df43 **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:19:13 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 23:19:38 +0200
 
 granatier (4:16.04.0-1) unstable; urgency=medium
 
