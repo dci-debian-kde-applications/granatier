@@ -31,10 +31,6 @@ Copyright: 2009, Mathias Kraus <k.hias@gmx.de>
            2009, Arturo Silva <jasilva28@gmail.com>
 License: GPL-2+
 
-Files: pictures/hisc-app-granatier.svgz
-Copyright: David Miller
-License: CC-BY-SA-3.0
-
 Files: src/config/playerselector.cpp
        src/config/playerselector.h
 Copyright: 2012, Mathias Kraus <k.hias@gmx.de>
