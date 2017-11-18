@@ -8,9 +8,6 @@ include /usr/share/pkg-kde-tools/qt-kde-team/2/l10n-packages.mk
 override_dh_auto_configure:
 	$(overridden_command) -- -DBIN_INSTALL_DIR=/usr/games
 
-override_dh_auto_install:
-	$(overridden_command) --destdir=debian/tmp
-
 override_dh_auto_build:
 	$(overridden_command)
 	meinproc5 --stylesheet /usr/share/kf5/kdoctools/customization/kde-include-man.xsl --output /dev/null debian/man-granatier.6.docbook
