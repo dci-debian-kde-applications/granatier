@@ -1,4 +1,6 @@
-granatier (4:17.08.3-1~1) UNRELEASED; urgency=medium
+granatier (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.0)
@@ -21,7 +23,7 @@ granatier (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Remove own man page: other than using an old DTD (4.2), it refers to
     options no more available, and it brings no value to users.
 
- -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 10:40:49 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 13:11:47 +0100
 
 granatier (4:17.08.0-0neon) xenial; urgency=medium
 
