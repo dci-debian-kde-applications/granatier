@@ -18,6 +18,8 @@ granatier (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Remove unused build dependencies: libkf5guiaddons-dev,
     libkf5iconthemes-dev, libkf5itemviews-dev, libkf5kdelibs4support-dev, and
     libkf5notifyconfig-dev.
+  * Remove own man page: other than using an old DTD (4.2), it refers to
+    options no more available, and it brings no value to users.
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 10:40:49 +0100
 
